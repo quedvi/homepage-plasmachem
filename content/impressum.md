@@ -11,10 +11,10 @@ Stand: 14. August 2023
 
 ###### Verantwortlicher:
 ###### Carsten Jost
-###### Herkomerstr. 10
-###### 12435 Berlin
+###### Schwarzschildstr. 10
+###### 12489 Berlin
 
-E-Mail: [c.jost@gmx.de](mailto:c.jost@gmx.de)
+E-Mail: [contact@plasmachem.com](mailto:contact@plasmachem.com)
 
 ###### Maßgebliche Rechtsgrundlagen
 

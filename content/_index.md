@@ -10,5 +10,5 @@ header_logo:
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "PlasmaChem"
-header_subheadline: "in Koserow/Usedom"
+header_subheadline: # "in Berlin/Adlershof"
 ---

@@ -23,21 +23,16 @@ BET measurement, under nitrogen, multipoint. Analysis report includes BET surfac
 
 | | |
 |-|-|
-|1 sample | EUR 120.00 |
-|2 samples | EUR 200.00 |
-|4 samples | EUR 380.00 |
+|1 sample | 250.00 € |
+|2 samples | 480.00 € |
+|5 samples | 1100.00 € |
+|10 samples | 1980.00 € |
 
 ###### Pretreatment conditions:
 
 Pretreatment under vacuum / nitrogen up to 300°C.
 You can specify the needed pretreatment conditions as well.
-Pretreatment prices, per 1 hour: 
-
-| | |
-|-|-|
-|1 sample | EUR 15.00 |
-|2 samples | EUR 25.00 |
-|4 samples | EUR 45.00 |
+Pretreatment prices, per 1 hour: 20 € (2 samples can be treated at once without extra costs).
 
 ##### Carbon?:
 
