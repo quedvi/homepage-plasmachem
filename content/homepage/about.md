@@ -1,7 +1,5 @@
 ---
-title: "Buchungsanfragen bitte an"
-header_menu_title: "Buchung"
-navigation_menu_title: "Buchung"
+title: "About"
 weight: 5
 header_menu: true
 ---

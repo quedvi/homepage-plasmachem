@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #161715;
+  --cover-text-color: #050505;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #86c440;
+  --highlight: #4a899b;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -11,7 +11,7 @@
   --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
   --cover-title-text-shadow: white 0px 0px 7px;
   /* === sticky top/left navigation menus === */
-  --sticky-menu-text-color: #9fd067;
+  --sticky-menu-text-color: #4a899b;
   /* === Alternating content (post) sections  === */
   /* Light section - text color */
   --section-light-text-color: #3a4145;
@@ -19,8 +19,8 @@
   --section-light-bg-color: #f2efe8;
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
-  /* Dark section - background color #b80135 */
-  --section-dark-bg-color: #37501a;
+  /* Dark section - background color */
+  --section-dark-bg-color: #4fafae;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */

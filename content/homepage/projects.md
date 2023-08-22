@@ -1,5 +1,5 @@
 ---
-title: "Preise"
+title: "Projects"
 weight: 4
 header_menu: true
 ---

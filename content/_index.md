@@ -9,6 +9,6 @@ header_use_video: false
 header_logo: 
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Ferienhaus Jost"
+header_headline: "PlasmaChem"
 header_subheadline: "in Koserow/Usedom"
 ---

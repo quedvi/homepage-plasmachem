@@ -3,7 +3,7 @@ baseURL = '.'
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 
 languageCode = 'en-us'
 
@@ -11,7 +11,7 @@ languageCode = 'en-us'
 theme = "hugo-scroll"
 
 # The browser tab name
-title = 'Ferienhaus Jost in Koserow/Usedom'
+title = 'PlasmaChem'
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
@@ -34,10 +34,10 @@ title = 'Ferienhaus Jost in Koserow/Usedom'
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Ferienhaus Jost in Koserow/Usedom"
+    title = "PlasmaChem"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Ferienhaus Jost in Koserow/Usedom"
+    description = "PlasmaChem"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -51,4 +51,4 @@ title = 'Ferienhaus Jost in Koserow/Usedom'
     invertSectionColors = false
     
     [params.meta]
-        keywords = "Ferienhaus, Jost, Koserow, Usedom"
+        keywords = "ADDO, Galvanoadditive, DLC, TRIO, Nanolauminography, Sedimentation Gauge, BET, Carbon Analysis, Custom Synthesis"
