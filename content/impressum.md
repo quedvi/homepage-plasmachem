@@ -10,11 +10,12 @@ Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 Stand: 14. August 2023
 
 ###### Verantwortlicher:
+###### PlasmaChem GmbH
 ###### Carsten Jost
 ###### Schwarzschildstr. 10
 ###### 12489 Berlin
 
-E-Mail: [contact@plasmachem.com](mailto:contact@plasmachem.com)
+E-Mail: [info@plasmachem.com](mailto:info@plasmachem.com)
 
 ###### Maßgebliche Rechtsgrundlagen
 
